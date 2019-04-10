@@ -11507,11 +11507,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/rx/Documents/CodingDojo/csharp_stack/aspNet_core/aspMVC1/RazorFun/RazorFun.csproj",
+      "projectUniqueName": "/Users/rx/Documents/CodingDojo/csharp_stack/aspNet_core/aspMVC/RazorFun/RazorFun.csproj",
       "projectName": "RazorFun",
-      "projectPath": "/Users/rx/Documents/CodingDojo/csharp_stack/aspNet_core/aspMVC1/RazorFun/RazorFun.csproj",
+      "projectPath": "/Users/rx/Documents/CodingDojo/csharp_stack/aspNet_core/aspMVC/RazorFun/RazorFun.csproj",
       "packagesPath": "/Users/rx/.nuget/packages/",
-      "outputPath": "/Users/rx/Documents/CodingDojo/csharp_stack/aspNet_core/aspMVC1/RazorFun/obj/",
+      "outputPath": "/Users/rx/Documents/CodingDojo/csharp_stack/aspNet_core/aspMVC/RazorFun/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
